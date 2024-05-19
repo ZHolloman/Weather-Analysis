@@ -1,5 +1,5 @@
 # Weather-Analysis
-The Weather Analysis Project contains a time-series data set from DataScienceLovers.graphy.com. It contains information about weather conditions at particular times and records temperature, dew point temperature, relative humidity, wind speed, visibility, pressure and conditions. Data importing, cleaning, and manipulation are the skills demonstrated with the use of Python, Excel and Jupyter Notebook. 
+The Weather Analysis Project contains a time-series data set from DataScienceLovers.graphy.com. It contains information about weather conditions at particular times and records temperature, dew point temperature, relative humidity, wind speed, visibility, pressure, and conditions. Data importing, cleaning, and manipulation are the skills demonstrated with the use of Python, pandas, and Jupyter Notebook. 
 
 ![image1](./images/photo1.png?raw=true)
 ![image1](./images/photo2.png?raw=true)
